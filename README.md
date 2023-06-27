@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **C#, Javascript**
 
-- 📫 How to reach me **mr.nihadsoltanov@gmail.co**
+- 📫 How to reach me **mr.nihadsoltanov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
